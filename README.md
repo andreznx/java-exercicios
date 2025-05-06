@@ -26,5 +26,5 @@ Praticar e reforçar os conceitos básicos de programação, raciocínio lógico
 - IDE: IntelliJ
 
 ## 🧑‍💻 Autor
-André Lucas Dos Anjos
-Estudante de Ciência da Computação e com foco em desenvolvimento backend.
+André Lucas Dos Anjos,
+estudante de Ciência da Computação e com foco em desenvolvimento backend.
