@@ -21,10 +21,10 @@ Praticar e reforçar os conceitos básicos de programação, raciocínio lógico
 - Utilizar arrays para armazenar e manipular dados
 - Organizar código de forma clara e legível
 
-- 📚 Tecnologias utilizadas
-Java 21
-IDE: IntelliJ
+## 📚 Tecnologias utilizadas
+- Java 21
+- IDE: IntelliJ
 
-🧑‍💻 Autor
+## 🧑‍💻 Autor
 André Lucas Dos Anjos
 Estudante de Ciência da Computação e com foco em desenvolvimento backend.
